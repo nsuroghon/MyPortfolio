@@ -11,6 +11,8 @@ View my journey as a student full-stack developer!
 
 ## Visit Portfolio
 
+https://nsuroghon.github.io/MyPortfolio/
+
 ## More Info
 Github: https://github.com/nsuroghon
 
