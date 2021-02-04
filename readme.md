@@ -7,7 +7,7 @@ View my journey as a student full-stack developer!
 
 ## Preview
 
-![My Portfolio](assets/img/preview.png.png)
+![Preview](https://github.com/nsuroghon/MyPortfolio/blob/master/assets/img/preview.png "Screenshot")
 
 ## Visit Portfolio
 
